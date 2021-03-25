@@ -8,7 +8,7 @@ namespace Spa.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
+        // GET: Home is safe
         public ActionResult Index()
         {
             return View();
